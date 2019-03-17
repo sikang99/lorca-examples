@@ -1,5 +1,5 @@
 #
-# Makefile for flutter
+# Makefile for lorca-examples
 #
 all: usage
 usage:
@@ -7,7 +7,7 @@ usage:
 
 #------------------------------------------------------------------------------
 edit e:
-	@echo "make (edit) [make|readme|history|fuchsia|canvas]"
+	@echo "make (edit) [make|readme]"
 
 edit-make em:
 	vi Makefile
@@ -27,9 +27,9 @@ git g:
 
 git-update gu:
 	git add Makefile* *.md hello/ call/ gui/ search/ counter/
-	git commit -m "initial commit"
+	#git commit -m "initial commit"
 	#git commit -m "add Makefile.dart-web"
-	#git commit -m "update commentaries"
+	git commit -m "update commentaries"
 	#git commit -m "rename /reference into /code"
 	git push -u origin master 
 
