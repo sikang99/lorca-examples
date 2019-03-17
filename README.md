@@ -1,7 +1,8 @@
-## Lorca Examples
+## Lorca Examples (Golang)
 > Lorca is a very small library to build modern HTML5 desktop apps in Go. It uses Chrome browser as a UI layer. 
 
 ### Information
+- [Golang Weekly](https://golangweekly.com/)
 - [**Chrome DevTools**](https://developers.google.com/web/tools/chrome-devtools/)
     - [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/)
 
