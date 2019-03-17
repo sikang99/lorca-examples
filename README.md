@@ -16,11 +16,13 @@
 - 2018/06/20 [What is the difference between WebDriver and DevTool protocol](https://stackoverflow.com/questions/50939116/what-is-the-difference-between-webdriver-and-devtool-protocol)
 - 2018/05/11 [Introducing the Microsoft Edge DevTools Protocol](https://blogs.windows.com/msedgedev/2018/05/11/introducing-edge-devtools-protocol/)
 - 2018/01/01 [Using DevTools Features Without Opening DevTools](https://developers.google.com/web/updates/2018/01/devtools-without-devtools)
+- 2017/05/26 [chromedp: A New Way to Drive the Web - GopherCon SG 2017](https://www.youtube.com/watch?v=_7pWCg94sKw)
 
 
 ### Open Source
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
 - [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [zserge/webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHT    ML (Windows)
 - [shwld/gcal-client](https://github.com/shwld/gcal-client)
