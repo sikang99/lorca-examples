@@ -26,7 +26,7 @@ git g:
 	@echo "make (git) [update|login|tag|status]"
 
 git-update gu:
-	git add Makefile* *.md hello/ call/ counter/ gcal/ gui/ search/
+	git add .gitignore Makefile* *.md hello/ call/ counter/ gcal/ gui/ search/
 	#git commit -m "initial commit"
 	#git commit -m "add Makefile.dart-web"
 	git commit -m "update commentaries"
