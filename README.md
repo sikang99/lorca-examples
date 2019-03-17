@@ -24,4 +24,4 @@
 
 ### Tools
 - [Image2icon](http://www.img2icnsapp.com/) - Mac
-- [ICO Convert](https://icoconvert.com/)
+- [ICO Convert](https://icoconvert.com/) - Web
