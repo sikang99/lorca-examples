@@ -14,6 +14,7 @@
 - 2018/11/24 [Electron보다 가볍고 간편한 lorca 제 데스크탑 가와 앱 추천](https://qiita.com/shwld/items/a0795586bc3b9e30a540)
 - 2018/08/22 [Desktop Application Development with Go](http://www.cihanozhan.com/desktop-application-development-with-go/)
 - 2018/06/20 [What is the difference between WebDriver and DevTool protocol](https://stackoverflow.com/questions/50939116/what-is-the-difference-between-webdriver-and-devtool-protocol)
+- 2018/05/11 [Introducing the Microsoft Edge DevTools Protocol](https://blogs.windows.com/msedgedev/2018/05/11/introducing-edge-devtools-protocol/)
 - 2018/01/01 [Using DevTools Features Without Opening DevTools](https://developers.google.com/web/updates/2018/01/devtools-without-devtools)
 
 
