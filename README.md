@@ -7,6 +7,7 @@
     - [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/)
 
 > The Chrome DevTools Protocol allows for tools to instrument, inspect, debug and profile Chromium, Chrome and other Blink-based browsers.
+- [agouti](https://agouti.org/) - a golang based acceptance testing framework
 
 
 ### History
@@ -26,6 +27,7 @@
 
 
 ### Open Source
+- [sclevine/agouti](https://github.com/sclevine/agouti) - A WebDriver client and acceptance testing library for Go http://agouti.org
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
 - [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
 - [chromedp](https://github.com/chromedp) - Chrome DevTools Protocol clients and tools for Go
