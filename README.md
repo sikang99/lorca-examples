@@ -12,7 +12,7 @@
 ### History
 - 2019/03/02 [FOSDEM'19](https://fosdem.org/2019/): [Building modern desktop apps in Go](https://fosdem.org/2019/schedule/event/godesktopapps/): [slides](https://fosdem.org/2019/schedule/event/godesktopapps/attachments/slides/2994/export/events/attachments/godesktopapps/slides/2994/slides.pdf)
 - 2019/00/00
-- 2018/11/24 [Electron보다 가볍고 간편한 lorca 제 데스크탑 가와 앱 추천](https://qiita.com/shwld/items/a0795586bc3b9e30a540)
+- 2018/11/24 [Electron보다 가볍고 간편한 lorca 제 데스크탑 가와 앱 추천](https://qiita.com/shwld/items/a0795586bc3b9e30a540): 일본
 - 2018/10/09 [Chrome Devtools Fun With Golang](https://codedharma.com/posts/chrome-devtools-fun-with-golang/)
 - 2018/09/17 [Intercepting and Modifying responses with Chrome via the Devtools Protocol](https://blog.shapesecurity.com/2018/09/17/intercepting-and-modifying-responses-with-chrome-via-the-devtools-protocol/)
 - 2018/08/22 [Desktop Application Development with Go](http://www.cihanozhan.com/desktop-application-development-with-go/)
