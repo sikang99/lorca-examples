@@ -11,6 +11,7 @@
 
 ### History
 - 2019/03/02 [FOSDEM'19](https://fosdem.org/2019/): [Building modern desktop apps in Go](https://fosdem.org/2019/schedule/event/godesktopapps/): [slides](https://fosdem.org/2019/schedule/event/godesktopapps/attachments/slides/2994/export/events/attachments/godesktopapps/slides/2994/slides.pdf)
+- 2019/01/08 [chromedp에서 Chrome의 특정 요청을 intercept하기](https://qiita.com/knqyf263/items/d355ffb8dfa92530ee11): 일본
 - 2019/00/00
 - 2018/11/24 [Electron보다 가볍고 간편한 lorca 제 데스크탑 가와 앱 추천](https://qiita.com/shwld/items/a0795586bc3b9e30a540): 일본
 - 2018/10/09 [Chrome Devtools Fun With Golang](https://codedharma.com/posts/chrome-devtools-fun-with-golang/)
