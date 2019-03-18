@@ -3,7 +3,7 @@
 #
 all: usage
 usage:
-	@echo "make [edit|test|flutter|git]"
+	@echo "make [edit|test||git]"
 
 #------------------------------------------------------------------------------
 edit e:
